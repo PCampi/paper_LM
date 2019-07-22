@@ -1,0 +1,5 @@
+Paper-Copy1.ipynb
+.ipynb_checkpoints
+.mypy_cache
+
+__pycache__
